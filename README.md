@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Full Stack Mobile Application Developer**
 
-- 🌱 I’m currently developing skills **AI Mobile Application Development, Software Engineering and Vibe Coding.**
+- 🌱 I’m currently building skills in : **AI Mobile Application Development, Software Engineering and Vibe Coding.**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/sajjadhussainjoyo](https://linktr.ee/sajjadhussainjoyo)
 
