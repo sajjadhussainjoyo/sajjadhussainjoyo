@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajjadhussainjoyo&label=Profile%20views&color=0e75b6&style=flat" alt="sajjadhussainjoyo" /> </p>
 
-- 🔭 I’m currently working on **Full Stack Development**
+- 🔭 I’m currently working on **Full Stack Mobile Application Developer**
 
-- 🌱 I’m currently learning **React, PHP, Python, SQL, Firebase, Dart, Flutter, Git.**
+- 🌱 I’m currently developing skills **AI Mobile Application Development, Software Engineering and Vibe Coding.**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/sajjadhussainjoyo](https://linktr.ee/sajjadhussainjoyo)
 
 - 📝 I regularly write articles on [https://medium.com/@sajjadhussainjoyo](https://medium.com/@sajjadhussainjoyo)
 
-- 📫 How to reach me **sajjadhussainjoyo111@gmail.com**
+- 📫 How to reach me **sajjadhussain6136@gmail.com**
 
 - ⚡ Fun fact **I'm sport's enthusiast 😄**
 
